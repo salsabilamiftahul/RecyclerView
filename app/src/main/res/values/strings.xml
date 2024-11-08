@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="title">Title</string>
+    <string name="this_is_the_description">this is the description</string>
+    <string name="_2073_2_2">2073/2/2</string>
+    <string name="title2">Title</string>
+    <string name="this_is_description2">this is description</string>
 </resources>
